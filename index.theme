@@ -1,9 +1,12 @@
-[X-GNOME-Metatheme]
-Name=Arkham
+[Desktop Entry]
 Type=X-GNOME-Metatheme
+Name=Arkham
 Comment=Another dark theme
 Encoding=UTF-8
+
+[X-GNOME-Metatheme]
 GtkTheme=Arkham
+MetacityTheme=Arkham
 IconTheme=Arc
-CursorTheme=Adwaita
-CursorSize=24
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
