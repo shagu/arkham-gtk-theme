@@ -116,3 +116,4 @@ button:link > label, button:visited > label, *:link, button:link, button:visited
 button:link > label:active, button:visited > label:active, *:link:active, button:active:link, button:active:visited { color: #ffffff; }
 menubar > menuitem:hover, .menubar > menuitem:hover { box-shadow: inset 0 -3px #215d9c; color: #ffffff; }
 menubar, .menubar { background: #161719; }
+.mate-panel-menu-bar, .mate-panel-menu-bar menubar, panel-toplevel.background, panel-toplevel.background menubar { background-color: #161719; }

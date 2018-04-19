@@ -27,3 +27,4 @@ exchange "184472" "4a89c7" # selection outline
 exchange "4a90d9" "ffffff" # menutext highlight
 
 echo 'menubar, .menubar { background: #161719; }' >> ./gtk-3.0/gtk.css
+echo '.mate-panel-menu-bar, .mate-panel-menu-bar menubar, panel-toplevel.background, panel-toplevel.background menubar { background-color: #161719; }' >> ./gtk-3.0/gtk.css
