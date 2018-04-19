@@ -7,5 +7,5 @@ Arkham ([?](https://en.wikipedia.org/wiki/Arkham)), formerly known as adwaita-at
 ![awesomewm](screenshot.jpg)
 *(Awesome-WM with Atom, Caja and Mate-Terminal)*
 
-![mate](https://i.imgur.com/ayNco3i.png)
+![mate](https://i.imgur.com/ibmQSft.png)
 *(Mate-Desktop with Atom, Caja and Eye-of-Mate)*
