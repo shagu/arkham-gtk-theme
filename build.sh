@@ -18,7 +18,7 @@ mkdir gtk-3.0
 echo '@import url("resource:///org/gtk/libgtk/theme/Adwaita/gtk-contained-dark.css");' > gtk-3.0/gtk.css
 
 exchange "33393B" "1D1F21" # base
-exchange "232729" "2B2E31" # textfields
+exchange "232729" "222426" # textfields
 exchange "272C2D" "1D1F21" # pluma, tab background
 exchange "262b2d" "161719" # menu entry
 
